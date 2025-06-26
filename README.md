@@ -75,19 +75,29 @@ Built using **TensorFlow** and **Keras**:
 ```bash
 git clone https://github.com/TejaswinisGit/Diagnosis.git
 cd Diagnosis
+```
 
+### 2️⃣ Install Required Packages
+```bash
 pip install tensorflow numpy matplotlib
+```
 
-Download the dataset from Kaggle:
-🔗 Chest X-ray Pneumonia Dataset
+### 3️⃣ Prepare the Dataset
+Download the dataset from Kaggle:  
+[🔗 Chest X-ray Pneumonia Dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 Extract it into the project folder like this:
+```
 Diagnosis/
 ├── Diagnosis.py
 ├── chest_xray/
 │   ├── train/
 │   ├── test/
 │   └── val/
+```
 
+### 4️⃣ Run the Python Script
+```bash
 python Diagnosis.py
+```
 
