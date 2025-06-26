@@ -71,6 +71,11 @@ Built using **TensorFlow** and **Keras**:
 
 ## 🚀 How to Run the Project
 
+### 🔗 Repository URL  
+[https://github.com/TejaswinisGit/Diagnosis.git](https://github.com/TejaswinisGit/Diagnosis.git)
+
+---
+
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/TejaswinisGit/Diagnosis.git
